@@ -1,4 +1,4 @@
-# Regression-for-debt-collection
+# Regression-Modeling-For-Debt-Collection
 
 After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." But that doesn't mean 
 the bank simply walks away from the debt. They still want to collect some of the money they are owed. In this project, we will look at a 
